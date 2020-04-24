@@ -118,6 +118,7 @@ $$
 ## Hoeffiding inequality
 
 We first define a tail constrain condition of a random variable, the __sub-$\psi$__  distribution, if its cumulant generating function is upper bounded by a function $\psi(\cdot)$ for $\lambda$ in its effective domain; formally, 
+
 $$
 \ln E[\exp(\lambda [X-E[X]))] \le \psi(\lambda)
 $$
