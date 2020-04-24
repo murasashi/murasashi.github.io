@@ -36,6 +36,7 @@ If you pray for such belief, then the intuitive definition of **_information con
 $$
 \text{IC}_{\mathbb{P}}(A)\equiv \log \frac{1}{\mathbb{P}(A)}  \hspace{20pt} (\clubsuit).
 $$
+
 In the language of Statistics, $(\clubsuit)$ is named __negative log-likelihood__ of event $A$ under probability measure $\mathbb{P}$.
 
 ### Explanation
