@@ -1,4 +1,3 @@
-
 ---
 title: A Trip - My first trip
 author: Murasashi
