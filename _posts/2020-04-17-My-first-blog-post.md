@@ -1,9 +1,12 @@
+
 ---
-layout: post
 title: A Trip - My first trip
+author: Murasashi
+date: 2020-04-26 14:10:00 +0800
 categories: [blog, travel] 
 tags: [hot, summer]
 ---
+
 
 ### Todos
 
