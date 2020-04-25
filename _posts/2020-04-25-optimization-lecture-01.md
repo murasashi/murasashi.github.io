@@ -1,4 +1,3 @@
-
 ---
 title: Constraints, Penalties, and Optimality.
 author: Murasashi
