@@ -1,5 +1,5 @@
 ---
-title: Hoeffding's inequality for super martingales.(Technical Review)
+title: Hoeffding's inequality for super martingales. (Technical Review)
 author: Murasashi
 date: 2020-04-24 04:00:00 +0400
 categories: [Probability, Concentration, Martingale] 
