@@ -1,7 +1,7 @@
 ---
 title: [TR]Hoeffding's inequality for super martingales.
 author: Murasashi
-date: 2020-04-27 04:00:00 +0400
+date: 2020-04-24 04:00:00 +0400
 categories: [Probability, Concentration, Martingale] 
 tags: [supermartingale, exponential markov inequality]
 ---
