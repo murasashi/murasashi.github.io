@@ -1,7 +1,7 @@
 ---
 title: Information Content, Upper Deviation, and Chernoff Argument.
 author: Murasashi
-date: 2020-04-26 16:00:00 +0400
+date: 2020-04-24 16:00:00 +0400
 categories: [Probability, Concentration] 
 tags: [information_content, information_entropy]
 ---
