@@ -18,7 +18,7 @@ tags: [information_content, information_entropy]
 ## Point 01: Information Content
 
 ### Intuitive Definition
-We start from a basic concept in [information theory](https://en.wikipedia.org/wiki/Information_theory "Information theory"),  the [Information Content]([https://en.wikipedia.org/wiki/Information_content](https://en.wikipedia.org/wiki/Information_content)) (also known as **Shannon information**).  The **_information content_** is to 
+We start from a basic concept in [information theory](https://en.wikipedia.org/wiki/Information_theory "Information theory"),  the [Information Content](https://en.wikipedia.org/wiki/Information_content) (also known as **Shannon information**).  The **_information content_** is to 
 quantify the level of __"surprise"__ of a particular event occurring from a __random variable__ or a __stochastic process__. The **_expected information content_** is termed as [information theoretic entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory) "Entropy (information theory)") and hence is to quantified __''how surprising''__ of that particular event __''on average"__ with respective to the uncertainty modeled by the random variable or the stochastic process. 
 
 > __Information Content__ measures how surprising an event is.
