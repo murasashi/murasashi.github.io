@@ -1,7 +1,7 @@
 ---
 title: Information Content of Upper Boundary Crossing Event
 author: Murasashi
-date: 2020-04-28 16:00:00 +0400
+date: 2020-04-27 16:00:00 +0400
 categories: [Research] 
 tags: [optimism, Ville's inequality]
 ---
